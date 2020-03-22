@@ -1,0 +1,15 @@
+/bin/
+*log.*
+/accelerated_jar/
+/obfuscated_jar/
+/temp_jar/
+/unobfuscated_jar/
+/temp_zip/
+/depcache/
+**/class/**
+.classpath
+*log*
+.project
+.settings/
+/dependencies/
+/class/
