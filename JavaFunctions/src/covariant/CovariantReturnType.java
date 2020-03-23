@@ -2,13 +2,13 @@ package covariant;
 
 public class CovariantReturnType
 {
-    protected CovariantReturnType getHeader()
+    public CovariantReturnType getHeader()
     {
         return null;
     }
     
-    protected String getHeader(int l)
+    public String getHeader(int l)
     {
-        return null;
+        return "";
     }
 }

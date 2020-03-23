@@ -2,13 +2,13 @@ package covariant;
 
 public class CovariantReurnType1 extends CovariantReturnType
 {
-    protected CovariantReurnType1 getHeader()
+    public CovariantReurnType1 getHeader()
     {
         return null;
     }
     
-    protected String getHeader(int l)
+    public String getHeader(int l)
     {
-        return null;
+        return "";
     }
 }
